@@ -1,0 +1,8 @@
+# virtual environment
+venv/
+
+# pysynth
+PySynth/
+
+# wavs
+*.wav
